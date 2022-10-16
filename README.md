@@ -6,4 +6,4 @@ Data Structures and Algorithms in Python is my first formal introduction to DSA.
 2. Linked List
 
 [Link to course](https://www.youtube.com/watch?v=pkYVOmU3MgA&t)
-`In progress...`
+`In progress....`
